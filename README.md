@@ -49,13 +49,6 @@
 
 AWS Solutions Architect · CKAD · Terraform Fundamentals · IBM Applied DevOps Engineering · Red Hat Enterprise Linux · Advanced Git & GitHub · +8 more on Coursera — see the [full list with verification links](https://1stdevfriend.github.io/about/)
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1stdevfriend&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1stdevfriend&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ---
 
 <p align="center"><em>📫 Reach me at <a href="mailto:kartikmysterio@gmail.com">kartikmysterio@gmail.com</a> or on <a href="https://linkedin.com/in/kartikey-kushwah-57283614b">LinkedIn</a></em></p>
